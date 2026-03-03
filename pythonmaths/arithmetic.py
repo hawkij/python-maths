@@ -3,7 +3,7 @@
 
 def add(x: int | float, y: int | float) -> float:
     """
-    Add two numbers together.
+    Return the sum of two numbers.
 
     Parameters
     ----------
@@ -57,7 +57,7 @@ def divide(x: int | float, y: int | float) -> float:
 
 def multiply(x: int | float, y: int | float) -> float:
     """
-    Multiply x by y.
+    Return the product of two numbers.
 
     Parameters
     ----------
